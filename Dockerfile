@@ -1,1 +1,1 @@
-FROM ubuntu:17.10
+FROM microsoft/dotnet-nightly
