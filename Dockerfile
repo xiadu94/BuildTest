@@ -1,1 +1,1 @@
-FROM azurecr/azure-cli
+FROM microsoft/dotnet-nightly
